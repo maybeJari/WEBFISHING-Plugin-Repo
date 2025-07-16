@@ -1,0 +1,8 @@
+{
+	"source_name": "Default Plugins",
+	"plugins": {
+		"Rain": {
+			"code": "https://raw.githubusercontent.com/iamkikin-off/Kikin.HostBuddy/refs/heads/main/Plugins/rain.gd"
+		},
+	}
+}
